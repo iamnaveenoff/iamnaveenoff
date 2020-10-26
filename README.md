@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there  Thanks for Visiting My Profile 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m working As FullStack Developer
 - 🌱 I’m currently ReactJS,Flutter, Graphql
