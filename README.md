@@ -9,4 +9,4 @@
 - 📫 How to reach me: naveencreater106@gmail.com
 
 
-![](https://komarev.com/ghpvc/?iamnaveenoff&color=brightgreen)
+![](https://komarev.com/ghpvc/?iamnaveenoff)
