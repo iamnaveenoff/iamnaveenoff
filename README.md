@@ -9,4 +9,4 @@
 - 📫 How to reach me: naveencreater106@gmail.com
 
 
-![](https://komarev.com/ghpvc/?iamnaveenoff)
+![Profile views](https://gpvc.arturio.dev/iamnaveenoff)
