@@ -1,6 +1,6 @@
 <h1 align="center" style="color:green;">Welcome to My World 👨🏼‍💻<h1>
   
-![Visitor Count](https://komarev.com/ghpvc/?username=hack-e-d&color=red&style=plastic)
+![Visitor Count](https://komarev.com/ghpvc/?username=iamnaveenoff&color=blue&style=plastic)
 
 ### Some stats:
 - 🔭 I’m working As FullStack Developer
