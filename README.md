@@ -1,5 +1,5 @@
 <h1 align="center" style="color:green;">Welcome to My World 👨🏼‍💻<h1>
-
+![](https://komarev.com/ghpvc/?iamnaveenoff&color=green)
 
 ### Some stats:
 - 🔭 I’m working As FullStack Developer
@@ -17,4 +17,3 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/iamnaveenoff)
