@@ -41,6 +41,9 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=iamnaveenoff&theme=onedark&row=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+<br>
+### Random Joke
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 
