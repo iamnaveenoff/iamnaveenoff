@@ -37,6 +37,10 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaveenoff&theme=chartreuse-dark&layout=compact" />
+<br>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=iamnaveenoff&theme=onedark&row=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 </p>
 
 
