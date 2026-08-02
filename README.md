@@ -1,102 +1,230 @@
-<!-- ======================= HEADER ======================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Naveen%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- ========================================================= -->
+<!--                    MODERN GITHUB README                    -->
+<!-- ========================================================= -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Naveen+Kumar;Full+Stack+Developer;Angular+Developer;Spring+Boot+Developer;Flutter+Developer;AI+Enthusiast;Building+Enterprise+Applications;Always+Learning+New+Things"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:0072FF&text=Naveen%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=iamnaveenoff&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/iamnaveenoff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/iamnaveenoff?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Enterprise+Application+Developer;Angular+%7C+Spring+Boot+%7C+Flutter;AI+Engineering+%7C+Cloud+Native;Building+Scalable+Enterprise+Systems;Always+Learning+New+Technologies"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Naveen Kumar
 
-I'm a passionate **Full Stack Software Engineer** from India 🇮🇳 who enjoys building scalable enterprise applications, AI-powered solutions, cloud-native systems, and beautiful mobile experiences.
+### Software Engineer | Full Stack Developer | AI Enthusiast
 
-- 💼 Full Stack Developer
-- 🤖 AI & Automation Enthusiast
-- 📱 Flutter Developer
-- 🌐 Angular Expert
-- ☕ Spring Boot & Java Developer
-- ☁️ AWS Cloud Learner
-- 🚀 Building Enterprise Software
-- 💡 Passionate about Clean Architecture & Scalable Systems
+I'm a passionate Software Engineer from **India 🇮🇳** focused on building scalable enterprise applications, cloud-native systems, AI-powered solutions, and modern mobile applications.
+
+I enjoy transforming complex business requirements into production-ready software using modern engineering practices.
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Engineering Focus
 
-- Enterprise Angular Applications
+- Enterprise Web Applications
+- Angular Architecture
 - Spring Boot Microservices
-- Flutter Applications
-- AI Agents & Automation
+- Flutter Mobile Development
 - REST APIs & GraphQL
-- Docker & AWS
-- GitHub Actions CI/CD
-- Open Source Contributions
+- AI Agents & Automation
+- Cloud Native Applications
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Clean Architecture
+- System Design
+- Performance Optimization
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+## Programming Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,dart,javascript,typescript,php"/>
+<img src="https://skillicons.dev/icons?i=java,python,dart,typescript,javascript,php"/>
 
 </p>
 
+---
+
 ## Frontend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=angular,react,flutter,html,css,tailwind"/>
 
 </p>
 
+---
+
 ## Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase,graphql"/>
 
 </p>
 
-## Database
+---
 
-<p>
+## Databases
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
 
 </p>
 
+---
+
 ## DevOps & Cloud
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,photoshop,postman"/>
 
 </p>
 
-## IDE & Design
+---
 
-<p>
+# 🏗 Enterprise Technologies
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,photoshop,xd"/>
+<table>
+<tr>
+<td>
 
-</p>
+✅ Clean Architecture
+
+✅ SOLID Principles
+
+✅ Design Patterns
+
+✅ JWT Authentication
+
+✅ OAuth2
+
+✅ REST APIs
+
+✅ GraphQL
+
+</td>
+
+<td>
+
+✅ Redis Caching
+
+✅ Elasticsearch
+
+✅ Docker
+
+✅ Kubernetes
+
+✅ GitHub Actions
+
+✅ CI/CD
+
+✅ Logging & Monitoring
+
+</td>
+
+<td>
+
+✅ Microservices
+
+✅ API Gateway
+
+✅ Event Driven Design
+
+✅ Distributed Systems
+
+✅ Performance Optimization
+
+✅ Scalable Applications
+
+✅ AI Integrations
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤖 AI Engineering
+
+- AI Agents
+- Agentic Workflows
+- LangGraph
+- MCP
+- Prompt Engineering
+- RAG Applications
+- OpenAI APIs
+- Workflow Automation
+- LLM Integrations
+- AI Enterprise Platforms
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| 🤖 Enterprise AI Platform | Angular • Spring Boot • Redis • Elasticsearch | Multi-tenant AI platform with enterprise knowledge management |
+| 📱 Flutter CRM | Flutter • Firebase | CRM with authentication, invoicing, clients, payments |
+| 🌍 Travel & Tiffin | Flutter | Travel & Food application |
+| 📄 WordPress Plugin | PHP • MySQL | Enterprise Income Declaration Plugin with SMTP & CSV |
+| 🤖 AI Workflow Automation | AI • APIs | Intelligent workflow automation platform |
+
+---
+
+# 🏗 Architecture Experience
+
+```text
+                    Frontend
+
+                 Angular / Flutter
+
+                        │
+
+                        ▼
+
+                 Spring Boot APIs
+
+                        │
+
+        ┌───────────────┼───────────────┐
+
+        ▼               ▼               ▼
+
+     Redis        PostgreSQL     Elasticsearch
+
+        │               │               │
+
+        └───────────────┼───────────────┘
+
+                        ▼
+
+              Docker • Kubernetes
+
+                        ▼
+
+                     AWS Cloud
+```
 
 ---
 
@@ -132,43 +260,7 @@ I'm a passionate **Full Stack Software Engineer** from India 🇮🇳 who enjoys
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamnaveenoff&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Enterprise Platform | Enterprise AI assistant built using Angular + Spring Boot + Redis + Elasticsearch |
-| 📱 Flutter CRM | Complete CRM with authentication, invoices, clients, Firebase backend |
-| 🌍 Travel & Tiffin | Travel & Food application built using Flutter |
-| 📄 WordPress Plugin | Enterprise Income Declaration Plugin with SMTP & CSV Export |
-| 🤖 AI Workflow Automation | AI Agents & Automation using modern AI tools |
-
----
-
-# 📚 Currently Learning
-
-```text
-✅ AI Agents
-✅ LangGraph
-✅ MCP
-✅ Kubernetes
-✅ AWS
-✅ React
-✅ Advanced Flutter
-```
-
----
-
-# 📊 Developer Metrics
+# 📋 Developer Summary
 
 <p align="center">
 
@@ -178,19 +270,47 @@ I'm a passionate **Full Stack Software Engineer** from India 🇮🇳 who enjoys
 
 ---
 
-# 💡 Developer Quote
+# 📅 2026 Learning Roadmap
 
-> "Code is like humor. When you have to explain it, it's bad."
+```text
+██████████████████  AI Agents
+
+████████████████░░  LangGraph
+
+██████████████░░░░  Kubernetes
+
+██████████████░░░░  AWS
+
+█████████████░░░░░  Distributed Systems
+
+██████████████░░░░  System Design
+
+███████████████░░░  React
+
+████████████████░░  MCP
+```
 
 ---
 
-# 😂 Random Programming Joke
+# 💡 Engineering Philosophy
 
-<p align="center">
+```java
+while (learning) {
 
-<img src="https://readme-jokes.vercel.app/api"/>
+    Build();
 
-</p>
+    Improve();
+
+    Refactor();
+
+    Automate();
+
+    Scale();
+
+    Repeat();
+
+}
+```
 
 ---
 
@@ -198,22 +318,16 @@ I'm a passionate **Full Stack Software Engineer** from India 🇮🇳 who enjoys
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/naveen-kumar-madhavan/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/naveen-kumar-madhavan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/iamnaveenoff/">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:naveencreater106@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -223,17 +337,25 @@ I'm a passionate **Full Stack Software Engineer** from India 🇮🇳 who enjoys
 # ⚡ Fun Fact
 
 ```java
-while(alive){
+public class Developer {
 
-    eat();
+    public static void main(String[] args) {
 
-    sleep();
+        while(alive){
 
-    code();
+            eat();
 
-    learn();
+            code();
 
-    repeat();
+            learn();
+
+            coffee();
+
+            sleep();
+
+        }
+
+    }
 
 }
 ```
@@ -244,6 +366,8 @@ while(alive){
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
+<p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0072FF,100:00C6FF&section=footer"/>
 
 </p>
